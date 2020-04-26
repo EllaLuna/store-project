@@ -142,10 +142,3 @@ tr.color-table:hover, .color {
 .container {
     text-align: center;
 }
-
-@media screen and (max-width: 768px) {
-    img {
-        height: 200px;
-        width: 150px;
-    }
-}
