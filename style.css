@@ -17,7 +17,7 @@ nav {
 .navi {
     display: inline;
     position: relative;
-    padding-left: 10px;
+    margin-right: 10px;
     color: black;
 }
 .nav-color{
@@ -185,13 +185,24 @@ a.fa-youtube-square:hover {
 
 }
 
+.table-del {
+    position: relative;
+    left: 22%;
+    border: 1px solid lightcoral;
+    width: 60%;
+    font-size: larger;
+    height: 80px;
+    margin-top: 50px;
+}
+
 .copywrite {
     color: white;
     position: relative;
     left: 33%;
 }
-.color {
+.footer {
     background-color: lightcoral;
+    margin-top: 50px;
 }
 
 .container {
@@ -200,4 +211,20 @@ a.fa-youtube-square:hover {
 
 .cart-footer {
     border-top: 1px solid black;
+}
+
+form {
+    display: inline;
+}
+
+.product {
+    position: relative;
+    border: 1px solid lightcoral;
+    font-size: medium;
+}
+
+th {
+    font-size: x-large;
+    height: 50px;
+    background-color: lightcoral;
 }
